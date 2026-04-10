@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"lambda.login"},{"l":"lambda.session"},{"l":"util"}];updateSearchResults();
