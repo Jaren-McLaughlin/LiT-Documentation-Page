@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_site=self.webpackChunkdocs_site||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/LiT-Documentation-Page/blog","blogTitle":"Blog","authorsListPath":"/LiT-Documentation-Page/blog/authors"}')}}]);
